@@ -1,25 +1,25 @@
-# Ghiblers, encontrando personagens do Studio Ghibli!
+# Ghiblers, encontrando personagens do Studio Ghibli! 🫶
 
-## Índice
+## Índice 👇
 
-* [1. Resumo do projeto](#1-resumo-do-projeto)
-* [2. Objetivos de aprendizagem](#2-objetivos-de-aprendizagem)
-* [3. Histórias do Usuário](#3-história-do-usuário)
-* [4. Apresentando a interface](#4-apresentando-a-interface)
-* [5. Checklist](#5-checklist)
+* [1. Resumo do projeto 📝](#1-resumo-do-projeto)
+* [2. Objetivos de aprendizagem 💡](#2-objetivos-de-aprendizagem)
+* [3. Histórias do Usuário 👥](#3-história-do-usuário)
+* [4. Apresentando a interface 💻](#4-apresentando-a-interface)
+* [5. Checklist ✅](#5-checklist)
 
 ***
 
 
-## 1. Resumo do projeto
+## 1. Resumo do projeto📝
 
-## 2. Objetivos de Aprendizagem
+## 2. Objetivos de Aprendizagem💡
 
-## 3. História do Usuário
+## 3. História do Usuário👥
 
-## 4. Apresentando a interface
+## 4. Apresentando a interface💻
 
-## 5. Checklist
+## 5. Checklist✅
 
 * [ ] Usar VanillaJS.
 * [ ] Passa pelo linter (`npm run pretest`)
