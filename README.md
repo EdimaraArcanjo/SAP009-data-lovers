@@ -1,46 +1,25 @@
-# Data Lovers
+# Ghiblers, encontrando personagens do Studio Ghibli!
 
 ## Índice
 
-* [1. Resumo do projeto](#2-resumo-do-projeto)
-* [3. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
-* [4. Considerações gerais](#4-considerações-gerais)
-* [5. Critérios mínimos de aceitação do
-  projeto](#5-critérios-mínimos-de-aceitação-do-projeto)
-* [6. Hacker edition](#6-hacker-edition)
-* [7. Considerações técnicas](#7-considerações-técnicas)
-* [8. Pistas, dicas e leituras
-  complementares](#8-pistas-dicas-e-leituras-complementares)
-* [9. Checklist](#9-checklist)
+* [1. Resumo do projeto](#1-resumo-do-projeto)
+* [2. Objetivos de aprendizagem](#2-objetivos-de-aprendizagem)
+* [3. Histórias do Usuário](#3-história-do-usuário)
+* [4. Apresentando a interface](#4-apresentando-a-interface)
+* [5. Checklist](#5-checklist)
 
 ***
 
 
 ## 1. Resumo do projeto
 
+## 2. Objetivos de Aprendizagem
 
-## 3. Objetivos de aprendizagem
+## 3. História do Usuário
 
+## 4. Apresentando a interface
 
-## 4. Considerações gerais
-
-
-## 5. Critérios mínimos de aceitação do projeto
-
-
-## 6. Hacker edition
-
-
-
-## 7. Considerações técnicas
-
-
-
-## 8. Pistas, dicas e leituras complementares
-
-
-
-## 9. Checklist
+## 5. Checklist
 
 * [ ] Usar VanillaJS.
 * [ ] Passa pelo linter (`npm run pretest`)
