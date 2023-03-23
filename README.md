@@ -38,6 +38,10 @@ Critérios de aceitação: funções e testes funcionando.
 
 ## 3. Protótipo de alta fidelidade⚙️
 
+Usamos o Figma como ferramenta para fazer o protótipo.
+
+![protótipo](https://user-images.githubusercontent.com/109115688/227255444-016c7312-168a-4513-8a21-58f7d8c05e5a.png)
+
 ## 4. Apresentando a interface💻
 
 ## 5. Testes Unitários💡
