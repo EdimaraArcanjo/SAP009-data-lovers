@@ -3,35 +3,59 @@
 ## Índice 👇
 
 * [1. Resumo do projeto 📝](#1-resumo-do-projeto)
-* [2. Objetivos de aprendizagem 💡](#2-objetivos-de-aprendizagem)
-* [3. Histórias do Usuário 👥](#3-história-do-usuário)
-* [4. Apresentando a interface 💻](#4-apresentando-a-interface)
+* [2. Histórias do Usuário 👥](#2-história-do-usuário)
+* [3. Apresentando a interface 💻](#3-apresentando-a-interface)
+* [4. Testes Unitários💡](#4-testes-unitários)
 * [5. Checklist ✅](#5-checklist)
 
 ***
 
-
 ## 1. Resumo do projeto📝
 
-## 2. Objetivos de Aprendizagem💡
+Este projeto teve como objetivo a construção de uma página web responsiva em diferentes formatos de tela, para visualizar um conjunto (set) de dados que se adequasse às necessidades de seu usuário, permitindo a ele visualizar dados, filtrá-los, ordená-los e fazer algum cálculo agregado. Por cálculo agregado nos referimos aos diversos cálculos que podem ser feitos com os dados para mostrar a informação mais relevante para os usuários (médias, valores máximos e mínimos, etc).
 
-## 3. História do Usuário👥
+## 2. História do Usuário👥
 
-## 4. Apresentando a interface💻
+História n1: 
+
+Eu, como fã do Studio Ghibli, quero encontrar personagens, através de um site que disponibilize os personagens do Studio Ghibli.
+
+Eu, como fã dos personagens do Studio Ghibli, quero conseguir identificar um personagem através de características como nome, gênero,espécie e filme do qual ele faz parte. Quero ver os personagens que correspondem ao critério selecionado por mim.
+
+Definição de pronto: Quando os personagens, através da característica escolhida, sejam printados na tela.
+
+Critérios de aceitação: todas as funções e testes funcionando.
+
+História n2: 
+
+Eu, como fã e atenta à questões de gênero, quero saber qual a porcentagem de personagens masculinos e femininos em relação ao total de personagens. Assim como a porcentagem de cada espécie.
+
+Definição de pronto: porcentagem for exibida na tela, quando o usuário escolher o filtro de gênero e espécie.
+
+Critérios de aceitação: funções e testes funcionando.
+
+
+
+
+## 3. Apresentando a interface💻
+
+## 4. Testes Unitários💡
+
+Nesse projeto aprendemos um pouco mais sobre testes com Jest, aprendemos a sua sintáxe e como escrever nossos próprios testes.
+
+![testes](https://user-images.githubusercontent.com/109115688/227250754-7b8aae75-8bed-4080-aa03-a519a14a40fc.png)
+
 
 ## 5. Checklist✅
 
-* [ ] Usar VanillaJS.
-* [ ] Passa pelo linter (`npm run pretest`)
-* [ ] Passa pelos testes (`npm test`)
-* [ ] Testes unitários cobrem um mínimo de 70% de statements, functions, lines e
+* ☑️Usar VanillaJS.
+* ☑️ Passa pelo linter (`npm run pretest`)
+* ☑️ Passa pelos testes (`npm test`)
+* ☑️ Testes unitários cobrem um mínimo de 100% de statements, functions, lines e
   branches.
-* [ ] Inclui uma _definição de produto_ clara e informativa no `README.md`.
-* [ ] Inclui histórias de usuário no `README.md`.
-* [ ] Inclui rascunho da solução (protótipo de baixa fidelidade) no `README.md`.
-* [ ] Inclui uma lista de problemas detectados nos testes de usabilidade no
-  `README.md`.
-* [ ] UI: Mostra lista/tabela/etc com dados e/ou indicadores.
-* [ ] UI: Permite ordenar dados por um ou mais campos (asc e desc).
-* [ ] UI: Permite filtrar dados com base em uma condição.
-* [ ] UI: É _responsivo_.
+* ☑️ Inclui uma _definição de produto_ clara e informativa no `README.md`.
+* ☑️ Inclui histórias de usuário no `README.md`.
+* ☑️ Inclui um protótipo de alta fidelidade no `README.md`.
+* ☑️ UI: Mostra lista/cards/etc com dados e/ou indicadores.
+* ☑️ UI: Permite filtrar dados com base em uma condição.
+* ☑️ UI: É _responsivo_.
