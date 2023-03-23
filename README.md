@@ -4,9 +4,10 @@
 
 * [1. Resumo do projeto 📝](#1-resumo-do-projeto)
 * [2. Histórias do Usuário 👥](#2-história-do-usuário)
-* [3. Apresentando a interface 💻](#3-apresentando-a-interface)
-* [4. Testes Unitários💡](#4-testes-unitários)
-* [5. Checklist ✅](#5-checklist)
+* [3. Protótipo de alta fidelidade ⚙️](#3-protótipo-de-alta-fidelidade)
+* [4. Apresentando a interface 💻](#4-apresentando-a-interface)
+* [5. Testes Unitários💡](#5-testes-unitários)
+* [6. Checklist ✅](#6-checklist)
 
 ***
 
@@ -35,18 +36,18 @@ Definição de pronto: porcentagem for exibida na tela, quando o usuário escolh
 Critérios de aceitação: funções e testes funcionando.
 
 
+## 3. Protótipo de alta fidelidade⚙️
 
+## 4. Apresentando a interface💻
 
-## 3. Apresentando a interface💻
-
-## 4. Testes Unitários💡
+## 5. Testes Unitários💡
 
 Nesse projeto aprendemos um pouco mais sobre testes com Jest, aprendemos a sua sintáxe e como escrever nossos próprios testes.
 
 ![testes](https://user-images.githubusercontent.com/109115688/227250754-7b8aae75-8bed-4080-aa03-a519a14a40fc.png)
 
 
-## 5. Checklist✅
+## 6. Checklist✅
 
 * ☑️Usar VanillaJS.
 * ☑️ Passa pelo linter (`npm run pretest`)
