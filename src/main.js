@@ -17,7 +17,6 @@ function getNamesAndImages() {
 const mostrarCardPai = document.querySelector(".mostrar-card-pai");
 
 const NamesAndImg = getNamesAndImages()
-console.log(NamesAndImg);
 
 function showPeople(NamesAndImg) {
   while (mostrarCardPai.firstChild) {
