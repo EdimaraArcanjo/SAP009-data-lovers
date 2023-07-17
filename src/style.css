@@ -8,7 +8,7 @@
 	padding: 0;
 	box-sizing: border-box;
   }
-  
+
 :root {
 	font-size: 16px;
 	--azul-claro: #b6daf4;
@@ -21,7 +21,7 @@ html {
 	height: 100vh;
 	text-rendering: optimizeLegibility;
 }
-  
+
 body {
     background-image: linear-gradient(to bottom, #bebffa, #f5eacc, #f7c0ce);
     height: 100vh;
@@ -48,7 +48,7 @@ h1 {
     text-align: center;
     text-shadow: 0.4px 0.4px 0.9px #00000086;
     margin: 5%;
-	
+
 }
 
 h5 {
@@ -83,7 +83,7 @@ p {
 #end {
     bottom: 0;
     width: 100%;
-    height: 100%;    
+    height: 100%;
     text-align: center;
     line-height: 1em;
 }
@@ -94,7 +94,7 @@ p {
 	display: block;
 	margin: auto;
 	margin-bottom: 5%;
-	
+
 }
 
 input, select {
@@ -106,7 +106,7 @@ input, select {
 	font-family: 'quicksand', sans-serif;
 	border-width: 0.01rem;
 
-  } 
+  }
 
   input:hover, select:hover {
 	border-color:#f493ac;
@@ -124,10 +124,10 @@ input, select {
 	display: flex;
 	justify-content: center;
 }
-  
+
 .imgid img {
-	width: 150px;
-	height: 150px;
+	width: 270px;
+	height: 270px;
 	margin-top: 5%;
   }
 
@@ -139,7 +139,7 @@ input, select {
 	text-decoration-color: none;
 	transition: 0.5s;
   }
-  
+
   a:hover {
 	text-decoration: none;
 	background-color: #f9de72;
@@ -153,13 +153,13 @@ input, select {
   }
 
  /* navbar responsiva */
-  
+
   a {
 	color: var(--yellow);
 	text-decoration: none;
 	font-weight: bold;
   }
-  
+
   .header {
 	display: flex;
 	align-items: center;
@@ -168,29 +168,29 @@ input, select {
 	height: 4.6875rem;
 	padding: 1rem;
   }
-  
-  
+
+
   .menu {
 	list-style: none;
 	display: flex;
 	gap: 0.5rem;
   }
-  
+
   .menu a {
 	display: block;
 	padding: 0.7rem;
 	border-radius: 0.8rem;
   }
-  
+
   .menu a:hover {
 	background: var(--yellow);
 	color: var(--azul-meioroxo);
   }
-  
+
   .btn-menu {
 	display: none;
   }
-  
+
   @media (max-width: 600px){
 	.menu {
 	  display: block;
@@ -319,14 +319,14 @@ input, select {
 	}
   }
 
-  /* scrol personalizado */ 
+  /* scrol personalizado */
 
   ::-webkit-scrollbar {
     width: 8px;
   }
 
   ::-webkit-scrollbar-track {
-    
+
     background: linear-gradient(to bottom, #8c8ffa, #d8ebf9, #fcf0ca, #fbbccd);
   }
 
@@ -336,7 +336,7 @@ input, select {
   }
 
  ::-webkit-scrollbar-thumb:hover {
-    background: #f68da9; 
+    background: #f68da9;
   }
 
 /* cards */
@@ -350,7 +350,7 @@ input, select {
 	padding: 0.5%;
 	text-align: center;
 	margin-left: 5rem;
-	margin-right: 1rem; 
+	margin-right: 1rem;
 	width: 150px;
 	color: #f6295f;
 	font-weight: bold;
@@ -363,7 +363,7 @@ input, select {
 	background-color:#f3db8e;
 	transition: all 0.5s;
   }
-  
+
   .card_image {
 	width: 100%;
 	height: 140px;
@@ -372,7 +372,7 @@ input, select {
 	margin-top: 1%;
 	object-fit: fill;
   }
-  
+
   /* muda o formato dos inputs e cards */
   @media (max-width: 600px) {
 	form {
@@ -387,7 +387,7 @@ input, select {
 		display: block;
 	}
   }
-  
+
 
 
 
